@@ -35,7 +35,9 @@ Administrivia
 * Track Mixer: Track, __SHIFT__ + __TRACK__
 
 * Step record: __SHIFT__ + Record
-               __TIE__ + Rest to dup, pause
+               __TIE__ + Rest to dup, pause              
+               
+* Move/swap track: on TRACK page, __COPY__ + <track encoder> swaps selected track with edit track. [🔗](http://forum.sequentix.com/viewtopic.php?f=2&t=104&p=25147&hilit=move+track#p25147)              
 
 
 Structure
@@ -74,8 +76,6 @@ Structure
     Insert: __INSERT__, first step
 
 * Pattern copy: __SHIFT__, Select pattern, save as new
-
-* Track swap: __COPY__ + encoder of track source
 
 Fiddling
 --------
