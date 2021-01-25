@@ -37,7 +37,7 @@ Administrivia
 * Step record: __SHIFT__ + Record
                __TIE__ + Rest to dup, pause              
                
-* Move/swap track: on TRACK page, __COPY__ + <track encoder> swaps selected track with edit track. [🔗](http://forum.sequentix.com/viewtopic.php?f=2&t=104&p=25147&hilit=move+track#p25147)              
+* Move/swap track: on TRACK page, hold __COPY__ then press <track encoder> to swap tracks. [🔗](http://forum.sequentix.com/viewtopic.php?f=2&t=104&p=25147&hilit=move+track#p25147)              
 
 
 Structure
