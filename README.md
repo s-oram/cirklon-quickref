@@ -77,6 +77,8 @@ Structure
 
 * Pattern copy: __SHIFT__, Select pattern, save as new
 
+* Aux Macro (Template): Select __Pattern__, __MENU__ -> select __aux macro__
+
 Fiddling
 --------
 
