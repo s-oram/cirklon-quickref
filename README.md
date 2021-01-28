@@ -66,6 +66,8 @@ Structure
 
     * CK Tap event: __REC__, hit __SCULPT__
                     Velocity = Knob A position
+                    
+    * Insert empty bar: Hold __INSERT__ + \<step key\> option to insert empty bar in P3 bar edit mode
 
 * Step edit
 
